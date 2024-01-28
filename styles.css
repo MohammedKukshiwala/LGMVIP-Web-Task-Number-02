@@ -23,8 +23,8 @@
   
   .get-users-btn {
     padding: 8px 16px;
-    background-color: #4CAF50;
-    color: #fff;
+    background-color: coral;
+    color: black;
     border: none;
     border-radius: 5px;
     cursor: pointer;
@@ -57,7 +57,7 @@
   .user-card {
     background-color: lightcoral;
     border: 1px solid #ddd;
-    border-radius: 5px;
+    border-radius: 10px;
     padding: 20px;
     text-align: center;
   }
@@ -76,6 +76,8 @@
   }
   
   .user-email {
-    color: white;
+    color: black;
+    font-weight: 700;
+    text-decoration: underline;
   }
   
